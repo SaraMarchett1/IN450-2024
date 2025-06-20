@@ -1,2 +1,1 @@
-Inserire qui una cartella col proprio *cognome* contenete il codice del progetto
-Non inserire file del tipo *notebook* (.nb) ma solo file sorgenti *wolfram-language* (.wl)
+Repository del Corso Algoritmi per la Crittografia (Prof. M. Pedicini) AA 2024-2025
